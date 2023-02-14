@@ -1,0 +1,86 @@
+09-02-2023 00:48:53 - main - INFO - <module> - Start program
+09-02-2023 00:49:16 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+09-02-2023 00:49:42 - exceps - INFO - find_entry - Search for an entry: Иванов
+09-02-2023 00:51:09 - main - INFO - <module> - Start program
+09-02-2023 00:51:12 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+09-02-2023 00:52:33 - main - INFO - <module> - Start program
+09-02-2023 00:52:37 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+09-02-2023 00:52:51 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+09-02-2023 00:52:51 - exceps - INFO - find_entry - Search for an entry: 7
+09-02-2023 00:52:51 - exceps - INFO - find_entry - Search result: ['7 Сидоров Алексей фотограф 89658634512']
+09-02-2023 00:52:51 - work_prog - INFO - edit_menu - Start edit menu
+09-02-2023 00:53:29 - work_prog - INFO - edit_entry - Data changes: ('фамилия', 'Круглов')
+09-02-2023 00:53:29 - exceps - INFO - find_entry - Search for an entry: 7
+09-02-2023 00:53:29 - exceps - INFO - find_entry - Search result: ['7 Сидоров Алексей фотограф 89658634512']
+09-02-2023 00:53:29 - work_prog - INFO - edit_entry - Current value: Сидоров
+09-02-2023 00:53:29 - work_prog - INFO - edit_entry - New value: Круглов
+09-02-2023 00:53:29 - work_prog - INFO - edit_entry - Data changed
+09-02-2023 22:44:23 - main - INFO - <module> - Start program
+09-02-2023 22:44:25 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+09-02-2023 22:49:23 - user_interface - INFO - menu_staff - Stop program.
+
+09-02-2023 22:49:28 - user_interface - INFO - menu - Stop program.
+
+09-02-2023 22:49:38 - main - INFO - <module> - Start program
+09-02-2023 22:49:40 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+09-02-2023 23:16:57 - main - INFO - <module> - Start program
+09-02-2023 23:17:04 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+09-02-2023 23:17:24 - exceps - INFO - find_entry - Search for an entry: Колосова
+09-02-2023 23:24:22 - main - INFO - <module> - Start program
+09-02-2023 23:24:24 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+09-02-2023 23:24:38 - exceps - INFO - find_entry - Search for an entry: Юлия
+09-02-2023 23:26:34 - main - INFO - <module> - Start program
+09-02-2023 23:26:36 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+09-02-2023 23:30:37 - main - INFO - <module> - Start program
+09-02-2023 23:30:39 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+09-02-2023 23:32:12 - main - INFO - <module> - Start program
+09-02-2023 23:32:13 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+09-02-2023 23:36:07 - main - INFO - <module> - Start program
+09-02-2023 23:36:09 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+09-02-2023 23:36:28 - work_prog - INFO - add_empl - Adding a new entry: [13, 'Иванов', 'Семен', 'уборщик', '89524567898']
+09-02-2023 23:37:17 - main - INFO - <module> - Start program
+09-02-2023 23:37:18 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+09-02-2023 23:37:34 - work_prog - INFO - add_empl - Adding a new entry: [13, 'Иванов', 'Семен', 'уборщие', '89524567889']
+09-02-2023 23:37:34 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+09-02-2023 23:37:34 - work_prog - WARNING - add_empl - Data added to the notebook: [13, 'Иванов', 'Семен', 'уборщие', '89524567889']
+09-02-2023 23:38:06 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+09-02-2023 23:38:06 - exceps - INFO - find_entry - Search for an entry: 7
+09-02-2023 23:38:06 - exceps - INFO - find_entry - Search result: ['7 Сидоров Алексей фотограф 89658634512']
+09-02-2023 23:38:06 - work_prog - INFO - edit_menu - Start edit menu
+09-02-2023 23:38:18 - work_prog - INFO - edit_entry - Data changes: ('фамилия', 'Круглов')
+09-02-2023 23:38:18 - exceps - INFO - find_entry - Search for an entry: 7
+09-02-2023 23:38:18 - exceps - INFO - find_entry - Search result: ['7 Сидоров Алексей фотограф 89658634512']
+09-02-2023 23:38:18 - work_prog - INFO - edit_entry - Current value: Сидоров
+09-02-2023 23:38:18 - work_prog - INFO - edit_entry - New value: Круглов
+09-02-2023 23:38:18 - work_prog - INFO - edit_entry - Data changed
+09-02-2023 23:54:59 - main - INFO - <module> - Start program
+09-02-2023 23:55:01 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+09-02-2023 23:55:19 - work_prog - INFO - del_empl - Deleting an entry: Колосова
+09-02-2023 23:55:19 - exceps - INFO - find_entry - Search for an entry: Колосова
+09-02-2023 23:55:19 - exceps - INFO - find_entry - Search result: ['8 Колосова Анна smm-менеджер 89623674875', '9 Колосова Анна smm-менеджер 89623674875']
+09-02-2023 23:55:26 - work_prog - INFO - del_empl - Id selected: 9
+09-02-2023 23:56:22 - main - INFO - <module> - Start program
+09-02-2023 23:56:24 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+09-02-2023 23:56:35 - work_prog - INFO - del_empl - Deleting an entry: Колосова
+09-02-2023 23:56:35 - exceps - INFO - find_entry - Search for an entry: Колосова
+09-02-2023 23:56:35 - exceps - INFO - find_entry - Search result: ['8 Колосова Анна smm-менеджер 89623674875', '9 Колосова Анна smm-менеджер 89623674875']
+09-02-2023 23:56:38 - work_prog - INFO - del_empl - Id selected: 9
+09-02-2023 23:56:38 - work_prog - INFO - del_empl - Data deleted
+09-02-2023 23:57:38 - main - INFO - <module> - Start program
+09-02-2023 23:57:41 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+09-02-2023 23:58:10 - main - INFO - <module> - Start program
+09-02-2023 23:58:12 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+10-02-2023 00:10:17 - main - INFO - <module> - Start program
+10-02-2023 00:10:20 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+12-02-2023 14:46:29 - main - INFO - <module> - Start program
+12-02-2023 14:46:32 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+12-02-2023 16:29:09 - main - INFO - <module> - Start program
+12-02-2023 16:29:11 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+13-02-2023 17:09:09 - main - INFO - <module> - Start program
+13-02-2023 17:09:11 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+13-02-2023 17:09:24 - main - INFO - <module> - Start program
+13-02-2023 17:09:25 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+13-02-2023 17:10:30 - main - INFO - <module> - Start program
+13-02-2023 17:10:31 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
+13-02-2023 17:15:09 - main - INFO - <module> - Start program
+13-02-2023 17:15:09 - work_prog - INFO - read_all - Show all Show all entries. Database File - staff.csv
